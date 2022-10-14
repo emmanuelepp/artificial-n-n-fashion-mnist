@@ -1,1 +1,1 @@
-# artificial-neural-network-in-tensorfow
+# artificial-neural-network
